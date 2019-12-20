@@ -1,0 +1,4 @@
+Name: Ironhacker
+Age: 31
+Favorite Color: Yellow
+git init and the hidde
